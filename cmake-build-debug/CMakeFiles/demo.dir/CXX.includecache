@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/39178B285F7A3DB1/Code/D20/OOP/demo/Animation.cpp
+Animation.h
+/mnt/39178B285F7A3DB1/Code/D20/OOP/demo/Animation.h
+
+/mnt/39178B285F7A3DB1/Code/D20/OOP/demo/Animation.h
+SFML/Graphics.hpp
+/mnt/39178B285F7A3DB1/Code/D20/OOP/demo/SFML/Graphics.hpp
+vector
+-
+
+/mnt/39178B285F7A3DB1/Code/D20/OOP/demo/main.cpp
+iostream
+-
+Animation.h
+/mnt/39178B285F7A3DB1/Code/D20/OOP/demo/Animation.h
+
